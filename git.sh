@@ -7,8 +7,8 @@ if [ -e '/usr/bin/git' ]
 	else
 		echo "깃을 설치합니다..."
 		sudo apt-get install git -y
-		git config --global user.name jjgweb951101@gmail.com
-		git config --global user.email jone1542%%
+		git config --global user.name Jang-Jungi
+		git config --global user.email jjgweb951101@gmail.com
 		
 		
 
